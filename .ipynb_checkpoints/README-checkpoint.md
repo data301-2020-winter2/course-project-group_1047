@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Sang Tran: Third year Bachelor of Science majoring in Data Science at UBCO!
-- Person 2: one sentence about you!
+-  Mohammed Al-surkhi: Second year bachelour of Computer Science. Data Science Minor.
 - Person 3: one sentence about you!
 
 ## References
